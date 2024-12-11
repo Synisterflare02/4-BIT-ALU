@@ -41,14 +41,14 @@ To implement the ALU, **multiplexers** were chosen as the core components due to
 
 Here are the visual representations of the 4-BIT ALU:
 
-### 1. ALU Block Diagram
-![ALU Block Diagram](https://github.com/Synisterflare02/4-BIT-ALU/blob/main/img1.png)
+### 1. ALU Schematic
+![ALU Schematic](https://github.com/Synisterflare02/4-BIT-ALU/blob/main/img1.png)
 
-### 2. ALU Logic Circuit
-![ALU Logic Circuit](https://github.com/Synisterflare02/4-BIT-ALU/blob/main/img2.png)
+### 2. ALU Full Schematic
+![ALU Full Schematic](https://github.com/Synisterflare02/4-BIT-ALU/blob/main/img2.png)
 
-### 3. ALU Truth Table
-![ALU Truth Table](https://github.com/Synisterflare02/4-BIT-ALU/blob/main/img3.png)
+### 3. ALU Power Graph
+![ALU Power Graph](https://github.com/Synisterflare02/4-BIT-ALU/blob/main/img3.png)
 
 ## How to Use
 
